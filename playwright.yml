@@ -8,7 +8,7 @@ jobs:
   test:
     timeout-minutes: 60
     runs-on: ubuntu-latest
-        defaults:
+    defaults:
       run:
         working-directory: ts-test
     steps:
