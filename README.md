@@ -3,7 +3,7 @@
 One tiny Playwright test written in TypeScript, Python and Java. Each opens
 Playwright's supported languages page and checks the top heading is visible.
 
-Companion to the LintQA article (add the article URL after publishing).
+Companion to the LintQA article [(add the article URL after publishing)](https://lintqa.com/best-programming-language-for-test-automation).
 
 ## Tested versions
 
